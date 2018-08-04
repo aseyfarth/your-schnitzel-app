@@ -1,0 +1,19 @@
+{
+  "name": "your-schnitzel-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aseyfarth/your-schnitzel-app.git"
+  },
+  "author": "Andreas Seyfarth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aseyfarth/your-schnitzel-app/issues"
+  },
+  "homepage": "https://github.com/aseyfarth/your-schnitzel-app#readme"
+}
